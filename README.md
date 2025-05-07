@@ -1,6 +1,6 @@
-# FOMC Market Analysis - Predicting Market Movements from Fed Speeches
+# Words That Move the Market: A Textual Analysis of Fed Chair Powell's Press Conferences and Next-Day S&P 500 Reactions
 
-This repository contains the code and report for the project **"FOMC Market Analysis - Predicting Market Movements from Fed Speeches"**, which analyzes the impact of FOMC speech content on S&P 500 market movements using machine learning techniques.
+This repository contains the code, data, and final report for the project **"Words That Move the Market: A Textual Analysis of Fed Chair Powell's Press Conferences and Next-Day S&P 500 Reactions."** The project aims to quantify the impact of FOMC speeches on the S&P 500 index using text mining and machine learning.
 
 ## Project Overview
 
